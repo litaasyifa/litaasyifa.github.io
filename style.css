@@ -1,0 +1,11 @@
+body{background-color: antiquewhite}
+
+h1 {background-color: palevioletred ; color: lightgoldenrodyellow ; text-align: center ; border: 5px green double}
+
+p {color: black ; background-color: pink ; text-align: center}
+
+li {color: maroon}
+
+img{height: 200px ; width: 300 px; border-radius: 360%; border: 5px double #ddd; border-radius 500% ; border-color: black}
+
+blockquote {background-color: green ; text-align: center}
